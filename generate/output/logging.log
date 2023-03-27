@@ -1,0 +1,61 @@
+03/27/2023 17:07:03 - INFO - root -   ***** Running training *****
+03/27/2023 17:07:03 - INFO - root -     Num Epochs = 15
+03/27/2023 17:07:03 - INFO - root -     sample num = 8000
+03/27/2023 17:07:03 - INFO - root -     batch_size = 16
+03/27/2023 17:07:03 - INFO - root -     Gradient Accumulation steps = 1
+03/27/2023 17:07:07 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:1 loss 13.37
+03/27/2023 17:07:07 - INFO - root -   update step:[1] ,save model dir[output\step_00001\model.bin]
+03/27/2023 17:07:07 - INFO - root -   update step:[1] ,save Train loss file[output\step_00001\train_loss.json]
+03/27/2023 17:07:26 - INFO - root -   evaluate on step = [1] , average loss : [53.637447357177734]
+03/27/2023 17:07:26 - INFO - root -   update step:[1] ,save Evaluate loss file[output\step_00001\eval_loss.json]
+03/27/2023 17:07:28 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:2 loss 14.97
+03/27/2023 17:07:30 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:3 loss 15.97
+03/27/2023 17:07:33 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:4 loss 18.65
+03/27/2023 17:07:34 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:5 loss 22.30
+03/27/2023 17:07:37 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:6 loss 14.65
+03/27/2023 17:07:39 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:7 loss 15.28
+03/27/2023 17:07:41 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:8 loss 15.07
+03/27/2023 17:07:43 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:9 loss 16.02
+03/27/2023 17:07:45 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:10 loss 16.01
+03/27/2023 17:07:47 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:11 loss 14.44
+03/27/2023 17:07:49 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:12 loss 14.97
+03/27/2023 17:07:51 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:13 loss 14.62
+03/27/2023 17:07:53 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:14 loss 14.29
+03/27/2023 17:07:55 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:15 loss 14.24
+03/27/2023 17:07:57 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:16 loss 14.26
+03/27/2023 17:07:59 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:17 loss 14.03
+03/27/2023 17:08:01 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:18 loss 13.98
+03/27/2023 17:08:03 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:19 loss 14.25
+03/27/2023 17:08:05 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:20 loss 14.13
+03/27/2023 17:08:08 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:21 loss 14.02
+03/27/2023 17:08:10 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:22 loss 13.79
+03/27/2023 17:08:12 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:23 loss 14.24
+03/27/2023 17:08:14 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:24 loss 14.03
+03/27/2023 17:08:16 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:25 loss 13.84
+03/27/2023 17:08:19 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:26 loss 14.07
+03/27/2023 17:08:21 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:27 loss 13.92
+03/27/2023 17:08:23 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:28 loss 13.99
+03/27/2023 17:08:25 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:29 loss 14.04
+03/27/2023 17:08:27 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:30 loss 13.64
+03/27/2023 17:08:30 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:31 loss 13.64
+03/27/2023 17:08:32 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:32 loss 13.71
+03/27/2023 17:08:34 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:33 loss 13.59
+03/27/2023 17:08:36 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:34 loss 13.61
+03/27/2023 17:08:38 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:35 loss 13.98
+03/27/2023 17:08:40 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:36 loss 13.77
+03/27/2023 17:08:42 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:37 loss 13.45
+03/27/2023 17:08:44 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:38 loss 13.59
+03/27/2023 17:08:46 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:39 loss 13.58
+03/27/2023 17:08:49 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:40 loss 13.77
+03/27/2023 17:08:51 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:41 loss 13.64
+03/27/2023 17:08:53 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:42 loss 13.57
+03/27/2023 17:08:55 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:43 loss 13.47
+03/27/2023 17:08:57 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:44 loss 13.36
+03/27/2023 17:08:59 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:45 loss 13.52
+03/27/2023 17:09:01 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:46 loss 13.50
+03/27/2023 17:09:04 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:47 loss 13.60
+03/27/2023 17:09:06 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:48 loss 13.54
+03/27/2023 17:09:08 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:49 loss 13.56
+03/27/2023 17:09:10 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:50 loss 13.45
+03/27/2023 17:09:12 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:51 loss 13.44
+03/27/2023 17:09:15 - INFO - root -   EPOCH : [1/15] File:[train_01] update_step:52 loss 13.55
